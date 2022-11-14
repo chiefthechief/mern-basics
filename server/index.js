@@ -27,4 +27,4 @@ app.post("/createUser", async (req, res) => {
 })
 app.listen(3001, () => {
    console.log("server is up and running...");
-})
+});
